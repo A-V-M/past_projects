@@ -8,3 +8,9 @@ The computational model in question resulted in four layers, each capturing high
 representations. I then tried to relate the representations and their properties arising from these layers with both 
 behavioural and imaging data.
 
+Report.pdf contains a full account (as extracted *verbatim* from my thesis) of the theory and the testing involved. 
+All copyrights reserved. **DO NOT** appropriate any parts of the document without permission.
+
+
+
+
