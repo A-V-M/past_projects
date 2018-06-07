@@ -1,6 +1,5 @@
 
 %
-%  Core training code provided by Ruslan Salakhutdinov and Geoff Hinton  
 %
 % Modified AVM/CSLB 2014
 
