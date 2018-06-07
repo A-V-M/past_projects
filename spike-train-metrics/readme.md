@@ -14,4 +14,4 @@ within a computer interface via CHEETAH® Neuralynx for the purposes of this pro
 
 Spike sorting was applied and the extracted spike train data was thereby used for analysis. The purpose of the software 
 in question was to provide for a real-time visualisation of the variability and hence the dissimilarity between pairs of
-recorded units. Metrics were computed via the van Rossum metric with software written by Dr. Thomas Wennekers. 
+recorded units. Metrics were computed via the van Rossum metric. 
